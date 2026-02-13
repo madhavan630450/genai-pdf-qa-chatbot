@@ -16,7 +16,7 @@ Embed and Store Content – Convert text chunks into embeddings and store them i
 Build Question-Answering System – Use LangChain’s RetrievalQA with an OpenAI model to retrieve relevant chunks and generate accurate answers to user queries.
 
 ### PROGRAM :
-```py
+```
 
 import os, datetime, sys
 import panel as pn, param
